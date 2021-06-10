@@ -23,6 +23,42 @@ h1 {
     font-family: 'Cinzel Decorative';
     font-size: 30px;
 }
+p.font-42 {
+    font-size: 42px;
+    color:salmon;
+    font-weight: bolder;
+}
+span.font-crazy {
+    font-weight: 900;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 55px;
+    /* Llamando un dolor por su nombre */
+    color: purple;
+}
+.color-avianca {
+    color: rgb(220,8,20);
+}
+.color-orangered {
+    color: #ff4500;
+}
+.color-suchance {
+    color: rgb(0,175,239);
+}
+.espaciado-letras {
+    letter-spacing: 0.1em;
+}
+.espaciado-palabras {
+    word-spacing: 0.6em;
+}
+.espaciado-lineas {
+    line-height: 2em;
+}
+p {
+    font-size: 3em;
+}
+.color-indigo {
+    color: indigo;
+}
 /* cinzel-decorative-regular - latin */
 @font-face {
     font-family: 'Cinzel Decorative';
