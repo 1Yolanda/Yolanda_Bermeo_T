@@ -35,6 +35,10 @@ span.font-crazy {
     /* Llamando un dolor por su nombre */
     color: purple;
 }
+span.tituli-lista {
+    font-weight: 900;
+    font-size: 1.2em;
+}
 .color-avianca {
     color: rgb(220,8,20);
 }
